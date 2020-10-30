@@ -1,0 +1,2 @@
+# Toronto-Bike-Share
+It might seem to be intuitive that bikeshare users would travel in the reverse direction in the evening than in the morning. But how true is that? If that's the case, would it reduce the value of convenience of bikeshares being available everywhere, and should they just get their own bikes? Do we also need a crew to pick up and restore all the bikes to initial distributions across the city before the next morning?
